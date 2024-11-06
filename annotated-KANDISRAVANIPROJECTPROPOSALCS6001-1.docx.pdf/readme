@@ -1,0 +1,10 @@
+ADVANCE VIRTUAL REALITY PROJECT PROPOSAL                                                     SRAVANI KANDI
+DESTRUCTION OF HOUSES BY LIGHTENING
+ABSTRACT: 
+•	In my final project for Advanced Virtual Reality, I'm focusing on simulating the destruction caused by lightning, thunderstorms, and strong winds within a residential area.
+•	To achieve this, I'll be using various techniques to create realistic effects. For instance, I'll simulate rain using the popnet node.
+•	And implement lightning strikes that can trigger fires upon hitting buildings. These fires will spread dynamically using pyro nodes, leading to the destruction of nearby houses.
+•	In addition to these visual elements, I'll be enhancing the immersive experience by incorporating sound effects. Using the audio panel taught in class, I'll recreate the booming sounds of thunder to further immerse the user in the intensity of the storm.
+•	Expanding on the simulation, I'll aim to create severe thunderstorms by introducing tornadoes. These tornadoes will be simulated by applying wind effects to clouds, resulting in the destruction of surrounding huts due to the severe winds they bring.
+•	Furthermore, I'll be enriching the natural ambiance of the scene by adding trees and applying realistic wind effects to them. This attention to detail ensures that users will have a truly lifelike and immersive experience as they witness the devastating power of nature in my project.
+ 
